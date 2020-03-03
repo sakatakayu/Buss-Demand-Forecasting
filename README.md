@@ -1,6 +1,6 @@
 # Buss Demand Forecasting
 
-パイソンを用いた予約モデルを構築することで予測の失敗を最小限に抑える。
+パイソンを用いた需要予測モデルを構築することで予測失敗を最小限に抑える。
 
 ## Steps to recreate advanced booking model using Python
 1. Review the [Demand-Forecasting problem]
